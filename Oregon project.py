@@ -1,13 +1,7 @@
 #this is a template on creating an oregon trail project.
 #I will use this to learn and understand the fundamentals of programming.
+##this file represents the mechanics of the game.
 import random
-welcome_text = """ 
-Welcome to the Oregon Trail! The year is 1850 and Americans are headed out
-west to populate the frontier. Your goal is to travel by wagon train from independence, MO
-to Oregon (2000 miles). You start on March 1st, and your goal is to reach Oregon by
-December 31st. The trail is ardous, Each day costs you food and health. You can hunt and rest,
-but you have to get there before winter! Good Luck!!
-"""
 
 #constants list
 MONTHS_WITH_31_DAYS = [1,3,5,7,8,10,12]
